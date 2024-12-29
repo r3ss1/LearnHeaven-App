@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=61vSIrg70xM&t=238s&ab_channel=EdRoh" target="_blank">
-      <img src="tbc" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/76b1c177-038a-4391-a5bf-e71f33df7a6b" alt="Project Banner">
     </a>
   <br />
 
