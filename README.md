@@ -119,7 +119,7 @@ Ensure you have the following installed:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/r3ss1/tutorials-heaven.git
+git clone https://github.com/rr3s1/tutorials-heaven.git
 cd TBC
 ```
 More details will be provided at a later date as the project is in an incipient state.
