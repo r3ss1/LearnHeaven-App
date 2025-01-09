@@ -4,8 +4,8 @@ import {
   CardContent,
   CardTitle,
   CardFooter,
-} from "@/components/ui/card";
-import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
+} from "@/src/components/ui/card";
+import { Avatar, AvatarImage, AvatarFallback } from "@/src/components/ui/avatar";
 import Image from "next/image";
 import { formatPrice } from "@/lib/utils";
 

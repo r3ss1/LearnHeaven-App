@@ -1,9 +1,9 @@
-
+import NonDashboardNavbar from "../components/NonDashboardNavbar";
 
 export default function Home() {
   return (
     <div>
-      Hi!
+     <NonDashboardNavbar />
     </div>
   );
 }
